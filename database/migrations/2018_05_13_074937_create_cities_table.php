@@ -14,10 +14,18 @@ class CreateCitiesTable extends Migration
     public function up()
     {
         Schema::create('cities', function (Blueprint $table) {
-            $table->increments('id');
-            $table->string('title');
-            $table->string('viloyat');
-            $table->timestamps();
+            $table->boolean('choosenCity');
+            $table->string('FullName', 119);
+            $table->date('travel_Date');
+            $table->integer('duration');
+            $table->string('pasport_Number');
+            $table->string('phone_Number');
+            $table->integer('Number_Travelers');
+            $table->string('Hotel');
+            $table->string('email')->unique();
+            $table->string('fbsql_username(link_identifier)');
+            $table->string('fbsql_password(link_identifier)');
+
         });
     }
 

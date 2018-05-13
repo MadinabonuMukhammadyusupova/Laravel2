@@ -15,6 +15,9 @@ Route::get('/', 'PagesController@index');
 Route::get('/contact_us', 'PagesController@contact_us');
 Route::get('/registration', 'PagesController@registration');
 Route::get('/hotels', 'PagesController@hotels');
+Route::post('/save', 'PagesController@store')->name("save");
 Route::get('/places', 'PagesController@places');
 Route::get('/transportation', 'PagesController@transportation');
+Route::resource('/store', 'PagesController');
+
 
