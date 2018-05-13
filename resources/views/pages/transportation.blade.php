@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Travel Uzbekistan</title>
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous">
+	<link rel="stylesheet" href="libs/Lato/css/font.css">
+	<link rel="stylesheet" href="libs/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+	<div class="main">
+		<header class="header2">
+			<div class="wrapper">
+					<div class="logo">
+						<a href="index.html"><img src="img/logo.png" alt="logo"></a>
+					</div>
+					<ul class="menu">
+						<li>
+							<a href="#" data-toggle="modal" data-target="#exampleModal">LOG IN</a>
+						</li>
+						<li><a href="contact_us" >CONTACT US</a></li>
+						<li><a href="registration" >REGISTRATION</a></li>
+						
+					</ul>
+			</div>
+		</header>
+	
+<section>
+<button type="button" class="btn btn-primary btn-block">Bus</button>
+<div class="row">
+  <div class="column nature">
+    <div class="content">
+      <img src="img/bus1.jpg" alt="Mountains" style="width:250%">
+      <h4>Man LionCoach</h4>
+      <p><a href="https://tashkent.regency.hyatt.com/en/hotel/home.html">More Info</a> </p>
+    </div>
+  </div>
+  <div class="column nature">
+    <div class="content">
+      <img src="img/bus.jpg" alt="Lights" style="width:250%">
+      <h4>Higir Bus Midi</h4>
+      <p><a href="http://www.wyndhamtashkent.com/ru/">More Info</a> </p>
+    </div>
+  </div>
+  <div class="column nature">
+    <div class="content">
+      <img src="img/bus2.jpg" alt="Nature" style="width:150%">
+      <h4>Higer KLQ6129</h4>
+      <p><a href="https://www.radissonblu.com/en/hotel-tashkent/rooms">More Info</a> </p>
+    </div>
+  </div>
+<button type="button" class="btn btn-primary btn-block">Car</button>
+  <div class="column cars">
+    <div class="content">
+      <img src="img/car.jpg" alt="Car" style="width:500%">
+      <h4>Chevrolet Lacetti 1.6</h4>
+      <p><a href="http://asiahotels.uz/en/Asia-Bukhara.html"> More Info</a></p>
+    </div>
+  </div>
+  <div class="column cars">
+    <div class="content">
+      <img src="img/car1.jpg" alt="Car" style="width:500%">
+      <h4>Chevrolet Epica 2.5</h4>
+      <p><a href="https://mybooking.uz/uz/hotels/bukhara/grand-emir-residence#booking">More Info</a> </p>
+    </div>
+  </div>
+  <div class="column cars">
+    <div class="content">
+      <img src="img/car2.jpg" alt="Car" style="width:250%">
+      <h4>Chevrolet Captiva</h4>
+      <p><a href="https://mybooking.uz/uz/hotels/bukhara/shirin-plaza#hotel-title">More Info</a>  </p>
+    </div>
+  </div>
+<button type="button" class="btn btn-primary btn-block">Train</button>
+  <div class="column people">
+    <div class="content">
+      <img src="img/train.jpg" alt="People" style="width:250%">
+      <h4>Tashkent - Bukhara</h4>
+      <p><a href="https://mybooking.uz/uz/hotels/samarkand/registon#hotel-title">More Info</a> </p>
+    </div>
+  </div>
+  <div class="column people">
+    <div class="content">
+      <img src="img/train1.jpg" alt="People" style="width:250%">
+      <h4>Samarkand - Khiva</h4>
+      <p><a href="https://mybooking.uz/uz/hotels/samarkand/grand-samarkand-superior#hotel-title">More Info</a> </p>
+    </div>
+  </div>
+  <div class="column people">
+    <div class="content">
+      <img src="img/train2.jpg" alt="People" style="width:250%">
+      <h4>Khiva - Tashkent</h4>
+      <p><a href="https://mybooking.uz/uz/hotels/samarkand/astor#hotel-title">More Info</a> </p>
+    </div>
+  </div>
+<button type="button" class="btn btn-primary btn-block">Airplane</button>
+  <div class="column people">
+    <div class="content">
+      <img src="img/plane.jpg" alt="People" style="width:250%">
+      <h4>Khiva - Samarkand</h4>
+      <p><a href="https://www.booking.com/hotel/uz/orient-star-khiva.en-gb.html?aid=356980;label=gog235jc-hotel-XX-uz-orientNstarNkhiva-unspec-uz-com-L%3Aen-O%3AwindowsS10-B%3Achrome-N%3AXX-S%3Abo-U%3AXX-H%3As;sid=07065324d173875931e09773f7f4bb1e;dist=0&sb_price_type=total&type=total&">More Info</a> </p>
+    </div>
+  </div>
+  <div class="column people">
+    <div class="content">
+      <img src="img/plane1.jpg" alt="People" style="width:250%">
+      <h4>Tashkent - Samarkand </h4>
+      <p><a href="https://www.booking.com/searchresults.en-gb.html?aid=311984;label=asia-samarkand-Qa1SM3iVHzqPteRvQ105PgS261420044767%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-261710242782%3Akwd-20479781071%3Alp1028523%3Ali%3Adec%3Adm;sid=07065324d173875931e09773f7f4bb1e;city=-2577285;expand_sb=1;highlighted_hotels=843811;hlrd=no_dates;keep_landing=1;redirected=1;source=hotel&gclid=CjwKCAjw_tTXBRBsEiwArqXyMlwee_5PyuI3GRL-TQmQRMHgdR686VsMrSYgpUbe4dRc1DFO_OEhWBoCxdcQAvD_BwE&">More Info</a> </p>
+    </div>
+  </div>
+  <div class="column people">
+    <div class="content">
+      <img src="img/plane2.jpg" alt="People" style="width:250%">
+      <h4>Samarkand - Bukhara</h4>
+      <p><a href="https://www.booking.com/searchresults.en-gb.html?aid=311984;label=asia-samarkand-Qa1SM3iVHzqPteRvQ105PgS261420044767%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-261710242782%3Akwd-20479781071%3Alp1028523%3Ali%3Adec%3Adm;sid=07065324d173875931e09773f7f4bb1e;city=-2577285;expand_sb=1;highlighted_hotels=843811;hlrd=no_dates;keep_landing=1;redirected=1;source=hotel&gclid=CjwKCAjw_tTXBRBsEiwArqXyMlwee_5PyuI3GRL-TQmQRMHgdR686VsMrSYgpUbe4dRc1DFO_OEhWBoCxdcQAvD_BwE&">More Info</a> </p>
+    </div>
+  </div>
+<!-- END GRID -->
+</div>
+
+		<link rel="stylesheet" href="css/hotels.css">	
+			<script src="js/hotel.js"></script>
+		
+</section>
+		
+		<footer class="footer">
+			<div class="wrapper">
+				<p class="text_footer">Copyright © 2018 - Travel Uzbekistan</p>
+			</div>
+		</footer>
+
+		<!-- Modal -->
+		<div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+			<div class="modal-dialog" role="document">
+				<div class="modal-content">
+					<div class="modal-header">
+						<h5 class="modal-title" id="exampleModalLabel">Log In</h5>
+						<button type="button" class="close" data-dismiss="modal" aria-label="Close">
+							<span aria-hidden="true">&times;</span>
+						</button>
+					</div>
+					<div class="modal-body">
+						<form action="">
+							<div class="container">
+								<label for="uname"><b>Username</b></label>
+								<input type="text" placeholder="Enter Username" name="uname" required>
+
+								<label for="psw"><b>Password</b></label>
+								<input type="password" placeholder="Enter Password" name="psw" required>
+								
+								<div class="buttons">
+									<button type="submit" class="btn btn-success btn-bg">Login</button>
+									<a href="register.html" class="btn btn-success btn-bg float-right">Register</a>
+								</div>
+								
+
+								<div class="brain">
+									<label>
+										<input type="checkbox" checked="checked" name="remember"> Remember me
+									</label>
+									<span class="psw">Forgot <a href="#">password?</a></span>
+								</div>
+								
+							</div>
+						</form>
+					</div>	
+					<div class="modal-footer" style="background-color:#f1f1f1">
+						<button type="button" data-dismiss="modal" class="cancelbtn float-left">Cancel</button>
+
+					</div>				
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+	<script src="libs/js/jquery-3.2.1.min.js"></script>
+	<script src="libs/js/popper.min.js"></script>
+	<script src="libs/js/bootstrap.min.js"></script>
+	<script src="libs/js/bootstrap.bundle.min.js"></script>
+	<script src="js/script.js"></script>
+
+
+</body>
+</html>
